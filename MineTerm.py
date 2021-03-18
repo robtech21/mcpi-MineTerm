@@ -5,7 +5,7 @@ passwords   = {'pi':'testberry'}
 version     = '0.0.1 PreAlpha build'
 prompt      = '>_'
 str_input   = None
-commands =  ['nick', 'tp']
+commands    =  ['nick', 'tp']
 
 print('MineTerm \n' + version, 'running on Python', sys.version,  '''
 By LEHAtupointow: lehatupointow.blogspot.com
